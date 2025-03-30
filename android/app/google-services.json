@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317252165475",
+    "project_id": "yoks-vadnan",
+    "storage_bucket": "yoks-vadnan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317252165475:android:dbde5569072ca0da697d56",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317252165475-d2mo2h2mor8quhnj7l0hqigev04o2mpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38JAC97RMuqoP33Q08Uw1yVG1vgd5KOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317252165475-d2mo2h2mor8quhnj7l0hqigev04o2mpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
