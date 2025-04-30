@@ -62,7 +62,7 @@ GLizzet is a modern Flutter application that provides users with a seamless expe
 
 ## 📱 Screenshots
 
-[Demo Video](https://drive.google.com/file/d/1OIiImjpoqZ6UVBeySyQjB-iGLYKc4Sd5/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1TcB7_dIUWkJxL1Ah7FNuZdx4fRkIloam/view?usp=sharing)
 
 ## 🚀 Getting Started
 
